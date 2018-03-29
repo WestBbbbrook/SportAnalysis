@@ -1,0 +1,7 @@
+@echo off
+set QTPath=D:\SportAnalysis\QT5.6.3\5.6.3\msvc2013_64\bin\
+set RelasePath=D:\SportAnalysis\SportAnalysis\client\build-mediaActPro-Desktop_Qt_5_6_3_MSVC2013_64bit-Release\release\
+
+%QTPath%windeployqt.exe %RelasePath%mediaActPro.exe
+
+pause
