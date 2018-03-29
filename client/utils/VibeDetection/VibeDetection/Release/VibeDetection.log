@@ -1,0 +1,19 @@
+﻿生成启动时间为 2018/3/28 21:32:08。
+     1>项目“E:\新建文件夹\文本\code\c++\VS2013\VibeDetection\VibeDetection\VibeDetection.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /IF:\soft\opencv\build\include /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp synopsis.cpp
+         main.cpp
+         synopsis.cpp
+     1>synopsis.cpp(140): warning C4018: “<”: 有符号/无符号不匹配
+     1>synopsis.cpp(95): warning C4101: “time”: 未引用的局部变量
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\新建文件夹\文本\code\c++\VS2013\VibeDetection\Release\VibeDetection.exe" /NOLOGO /LIBPATH:F:\soft\opencv\build\x86\vc12\lib opencv_calib3d2413.lib opencv_contrib2413.lib opencv_core2413.lib opencv_features2d2413.lib opencv_flann2413.lib opencv_gpu2413.lib opencv_highgui2413.lib opencv_imgproc2413.lib opencv_legacy2413.lib opencv_ml2413.lib opencv_nonfree2413.lib opencv_objdetect2413.lib opencv_ocl2413.lib opencv_photo2413.lib opencv_stitching2413.lib opencv_superres2413.lib opencv_ts2413.lib opencv_video2413.lib opencv_videostab2413.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\新建文件夹\文本\code\c++\VS2013\VibeDetection\Release\VibeDetection.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\新建文件夹\文本\code\c++\VS2013\VibeDetection\Release\VibeDetection.lib" /MACHINE:X86 /SAFESEH Release\main.obj
+         Release\synopsis.obj
+         正在生成代码
+         已完成代码的生成
+         VibeDetection.vcxproj -> E:\新建文件夹\文本\code\c++\VS2013\VibeDetection\Release\VibeDetection.exe
+     1>已完成生成项目“E:\新建文件夹\文本\code\c++\VS2013\VibeDetection\VibeDetection\VibeDetection.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.09

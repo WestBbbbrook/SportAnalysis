@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ViBePretreat", "ViBePretreat\ViBePretreat.vcxproj", "{20F38F15-DAFF-49F5-BA98-7E35B418AF4A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F38F15-DAFF-49F5-BA98-7E35B418AF4A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{20F38F15-DAFF-49F5-BA98-7E35B418AF4A}.Debug|Win32.Build.0 = Debug|Win32
+		{20F38F15-DAFF-49F5-BA98-7E35B418AF4A}.Release|Win32.ActiveCfg = Release|Win32
+		{20F38F15-DAFF-49F5-BA98-7E35B418AF4A}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
